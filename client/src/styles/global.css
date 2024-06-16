@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(197, 195, 193);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
